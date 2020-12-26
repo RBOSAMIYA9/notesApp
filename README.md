@@ -1,3 +1,3 @@
 # notesApp
 
-ClI based notes app
+CLI based notes app
